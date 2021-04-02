@@ -1,2 +1,2 @@
 # opencart_module_example
-Example OpenCart 2X Module
+Example OpenCart v.2.x Module
